@@ -1,8 +1,10 @@
 # Open Brain Canonical Landing Page
 
-![Community Contribution](https://img.shields.io/badge/Community-Contribution-orange)
+![Community Contribution](https://img.shields.io/badge/OB1_COMMUNITY-Approved_Contribution-2ea44f?style=for-the-badge&logo=github)
 ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-green)
 ![Time: 10 minutes](https://img.shields.io/badge/Setup-10%20minutes-blue)
+
+**Created by [@snapsynapse](https://github.com/snapsynapse)**
 
 A cite-able single-page canonical landing for Open Brain, designed for hosting at `openbrain.fyi` via GitHub Pages. Includes full SEO meta, JSON-LD structured data (`TechArticle` + `DefinedTerm`), bundled OB1 brand assets (square logo, wide hero banner, social share image, favicons), WCAG 2.1 AA accessibility, and all crawler companion files (`sitemap.xml`, `robots.txt`, `llms.txt`, `site.webmanifest`, `404.html`).
 
