@@ -1,0 +1,5 @@
+[mcp_servers.open-brain]
+url = "https://lqlknvwrkybjibfqecct.supabase.co/functions/v1/open-brain-mcp"
+
+[mcp_servers.open-brain.http_headers]
+x-brain-key = "c387dcd12204a53f08afea20069a0c7317e2551379626c8e2aeeaaf23381397f"
