@@ -1,5 +1,5 @@
 [mcp_servers.open-brain]
-url = "https://lqlknvwrkybjibfqecct.supabase.co/functions/v1/open-brain-mcp"
+url = "https://YOUR_PROJECT_REF.supabase.co/functions/v1/open-brain-mcp"
 
 [mcp_servers.open-brain.http_headers]
 x-brain-key = "REPLACE_WITH_LOCAL_MCP_ACCESS_KEY"
